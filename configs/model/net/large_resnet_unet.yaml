@@ -1,0 +1,2 @@
+_target_: src.models.unet.components.large_resnet_unet.LargeResNetUNet
+arch: resnet101

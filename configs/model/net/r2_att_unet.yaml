@@ -1,0 +1,5 @@
+_target_: src.models.unet.components.unet_variants.R2AttU_Net
+
+img_ch: 3
+output_ch: 1
+t: 2

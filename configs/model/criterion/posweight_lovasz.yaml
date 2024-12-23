@@ -1,0 +1,3 @@
+_target_: src.models.loss_function.lovasz_loss.BCE_Lovasz
+
+per_image: False

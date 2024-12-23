@@ -1,0 +1,10 @@
+_target_: src.models.unet.components.transunet.transunet.TransUNet
+
+img_dim: 256
+in_channels: 3
+out_channels: 128
+head_num: 4
+mlp_dim: 512
+block_num: 8
+patch_dim: 16
+class_num: 1

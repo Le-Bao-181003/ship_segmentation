@@ -1,0 +1,2 @@
+# this loss function is applied to model whose output is passed through sigmoid function
+_target_: src.models.loss_function.hybridloss.hybridLoss.HybridLoss
