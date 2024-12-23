@@ -1,18 +1,5 @@
 # Ship Segmentation on Satellite Images using various U-Net models
 
-## Members
-
-- Đào Quý An - 21020602
-- Dương Quang Minh - 21020219
-- Lê Văn Bảo - 21020171
-- Tống Minh Trí - 21020249
-
-## Description
-
-Mid-Term Project for Computer Vision Class INT3412E 20
-
-This repo was made by UET-VNU students
-
 Topic: Semantic Segmentation on Satellite Imagery Dataset, namely Airbus Ship Detection Dataset (Dataset: [Kaggle](https://www.kaggle.com/competitions/airbus-ship-detection/data)).
 
 Main Technologies: PyTorch, Lightning, Hydra, WanDB
@@ -73,7 +60,7 @@ Here are our results obtained from experiments:
 
 ## How to use this project
 
-- Clone this repo: `git clone https://github.com/daoquyan2003/ship-segmentation.git`
+- Clone this repo: `git clone https://github.com/Le-Bao-181003/ship_segmentation.git`
 
 - Make sure Python is installed (Optional: Anaconda `conda create -n airbus` and `conda activate airbus`)
 
